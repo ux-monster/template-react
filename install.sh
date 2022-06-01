@@ -1,4 +1,5 @@
 # 프로젝트 초기화
+sh ./bin/reset.sh
 npm init -y
 mkdir src
 
